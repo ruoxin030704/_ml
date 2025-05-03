@@ -1,4 +1,3 @@
-# optimize_f.py
 from micrograd.engine import Value
 
 x = Value(0.0)
